@@ -10,7 +10,7 @@
     transition: 0.2s;
 }
 body {
-    background: url("assets 1/body-bg.png");
+    background: url("assets-1/body-bg.png");
     background-size: 100% auto;
     font-family: 'Fira Sans Condensed', sans-serif;
     background-attachment: fixed;
