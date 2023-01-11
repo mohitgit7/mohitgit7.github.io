@@ -121,7 +121,20 @@
     }
 
     /*  */
-
+    
+    .program-item {
+        display: flex;
+        padding: 1.2rem;
+        border-radius: 1rem;
+        background: rgba(244, 228, 109, 0.1);
+        box-shadow: 10px 10px 40px rgb(198 193 193 / 50%);
+        border-top: 1px solid rgba(128, 126, 126, 0.5);
+        border-left: 1px solid rgba(129, 120, 120, 0.5);
+        backdrop-filter: blur(5px);
+        /* gap: 100px; */
+        margin: 2rem 0;
+        align-items: center;
+    }
     .program-wrapper #kids-learn {
         text-align: center;
         padding: 80px 20px 0;
