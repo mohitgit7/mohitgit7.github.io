@@ -56,6 +56,11 @@
     .header-right {
         margin-top: 40px;
     }
+    .header-right img {
+        width: 400px;
+        padding-right: 3.6rem;
+        margin-left: -10px;
+    }
     .header-left {
         max-width: 100%;
         margin-top: 0px;
