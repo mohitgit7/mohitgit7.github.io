@@ -310,7 +310,7 @@ header {
     border-radius: 1rem;
     background: #ffffffdb;
     box-shadow: rgb(0 0 0 / 16%) 0px 1px 9px;
-    gap: 100px;
+    gap: 80px;
     background-image: url("assets-1/recall-img.gif");
     background-repeat: no-repeat;
     background-size: 65% 500px;
