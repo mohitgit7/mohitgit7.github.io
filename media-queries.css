@@ -252,10 +252,10 @@
 @media only screen and (max-width:400px) {
     .header-bootcamp #sec-btn {
         margin-top: 30px;
-        margin-left: 10%;
+        margin-left: 15%;
     }
     .feature-cards {
-        margin-left: -50px;
+        margin-left: -37px;
     }
     .recall-warp {
         display: flex;
@@ -265,7 +265,7 @@
         border-radius: 1rem;
         background: #ffffffdb;
         box-shadow: rgb(0 0 0 / 16%) 0px 1px 9px;
-        gap: 50px;
+        gap: 35px;
         background-image: url(assets-1/recall-img.gif);
         background-repeat: no-repeat;
         background-size: 65% 400px;
@@ -329,7 +329,7 @@
         margin: 1rem 0rem;
     }
     .badge {
-        margin-left: 5px;
+        margin-left: 2px;
         padding: 5px 10px;
         background-color: rgb(255, 106, 0);
         color: white;
