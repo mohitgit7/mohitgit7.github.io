@@ -257,6 +257,17 @@
     .feature-cards {
         margin-left: -41px;
     }
+    .feature-card {
+        padding: 0rem 0rem;
+        min-height: 200px;
+        height: 100%;
+        display: flex;
+        /* list-style: none; */
+        align-items: center;
+        border-radius: 1rem;
+        background: #ffffff;
+        box-shadow: rgb(0 0 0 / 16%) 0px 1px 4px;
+}
     .recall-warp {
         display: flex;
         padding: 0rem 1rem;
